@@ -105,7 +105,7 @@ print(skin_df_balanced['dx'].value_counts())
 
 
 
-img_dir="C:/Users/anask/Desktop/Jango Boys/Dataset/All Images/"
+img_dir="C:/Users/anask/Desktop/project dataset/Dataset/All Images/"
 image_path = {}
 
 for filename in os.listdir(img_dir):
